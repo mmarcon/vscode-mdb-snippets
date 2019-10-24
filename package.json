@@ -1,0 +1,14 @@
+{
+  "name": "vscode-mdb-snippets",
+  "version": "1.0.0",
+  "description": "Generates MongoDB snippets file for VS Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Massimiliano Marcon",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb-ace-autocompleter": "^0.3.2"
+  }
+}
